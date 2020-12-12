@@ -1,1 +1,1 @@
-print ("f发fdfdsa")
+print("f发fdfdsa")
